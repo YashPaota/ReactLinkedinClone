@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactLinkedinClone/static/css/main.262b4374.css",
+    "main.js": "/ReactLinkedinClone/static/js/main.ad27aec6.js",
+    "index.html": "/ReactLinkedinClone/index.html",
+    "main.262b4374.css.map": "/ReactLinkedinClone/static/css/main.262b4374.css.map",
+    "main.ad27aec6.js.map": "/ReactLinkedinClone/static/js/main.ad27aec6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.262b4374.css",
+    "static/js/main.ad27aec6.js"
+  ]
+}
