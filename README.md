@@ -1,5 +1,5 @@
 # 🚀Linkedin Clone🚀
-
+* Developed a professional networking platform with ReactJS, CSS, and Firebase, mirroring LinkedIn's essence.
 ## Live Link
  Linkedin Clone :- https://yashpaota.github.io/ReactLinkedinClone/
 ## Setup and Running the Application
